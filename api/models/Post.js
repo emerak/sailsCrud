@@ -8,7 +8,12 @@
 module.exports = {
 
   attributes: {
-
+    author: {
+      type:'string'
+    },
+    content: {
+      type: 'string'
+    }
   }
 };
 
